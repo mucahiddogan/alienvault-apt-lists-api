@@ -1,0 +1,16 @@
+  <table border=2 style="width:100%" >
+    <body>
+        <tr>
+            <td>APT GROUP</td>
+            <td>IOC ID<br />
+            </td>
+        </tr>
+        {% for element in list %}
+        <tr>
+            <td>{{ element[1] }} </td>
+            <td>{{ element[0] }} </td>
+        </tr>
+        {% endfor %}
+
+    </body>
+</table>

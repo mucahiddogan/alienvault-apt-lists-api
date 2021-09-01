@@ -1,0 +1,18 @@
+<table border=2 style="width:100%" >
+    <body>
+        <tr>
+            <td>Rank</td>
+            <td>APT GROUP</td>
+            <td>Total IOC<br />
+            </td>
+        </tr>
+        {% for element in list %}
+        <tr>
+            <td>{{ element[0] }} </td>
+            <td>{{ element[1] }} </td>
+            <td>{{ element[2] }} </td>
+        </tr>
+        {% endfor %}
+
+    </body>
+</table>
