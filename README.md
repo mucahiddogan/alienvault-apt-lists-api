@@ -19,9 +19,10 @@ headers = {"X-OTX-API-KEY":"<APIKEYY>"}  # WRITE YOUR API KEY TO HERE
 Kullanım:
 
 ```bash
+pip3 install -r requirements.txt # kendi env alanınızı oluşturup da yapabilirsiniz
 cd app/
-pip3 install -r requirements.txt
 python3 main.py
+
 ```
 127.0.0.1:5000 portuna web tarayıcınız üzerinden erişip ana dizine,
 
