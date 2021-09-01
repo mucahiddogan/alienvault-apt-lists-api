@@ -28,7 +28,7 @@ python3 main.py
 
 127.0.0.1:5000/docs üzerinde API servisinize erişmiş olursunuz
 
-### :octocat: [github.com/mucahiddogan](https://github.com/mucahiddogan)
+### :octocat: [Mücahid Doğan](https://github.com/mucahiddogan)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
